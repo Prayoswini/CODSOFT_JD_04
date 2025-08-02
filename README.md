@@ -12,10 +12,7 @@ This is a Java Swing application that allows users to convert Indian Rupees (INR
 - Swing (GUI)
 - AWT (Event Handling)
 
-### 📷 GUI Screenshot:
-*(Add a screenshot if you have one!)*
-
-### 🚀 How to Run:
+![Alt Text](images/.png)
 1. Make sure you have Java installed.
 2. Compile: `javac CurrencyConverterGUI.java`
 3. Run: `java CurrencyConverterGUI`
